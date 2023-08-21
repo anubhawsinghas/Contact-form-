@@ -8,3 +8,5 @@
 3. For avoid the refresh of the page during duplicate submissions. =>  apply window location with alert.
 
 4. Save the form data with IP Address and current timestamp in database.
+
+5. Write Logic for send email (not working on local server, it will work on live but do not try on live because i have not any live server.)
